@@ -1,0 +1,17 @@
+1.What did you hope to learn but did not?
+--I hoped to learn Angular 2 in the class, but we instead talk about React and Redux
+
+2.What did you really enjoy learning about?
+--I really enjoy learning about the last part of this class, about Mongo, Node.js, Express. It really makes sense to me and the Outh, Redis, and password secure part is most useful and easy to understand.
+
+3.What worked well in the course? and how?
+--Step by step learning is the most important thing in this class. Professor Scott successfully spretae the materials and knowledge in each class and offer a inclass exercise after class. When we finish this, we need to integrate them again when we do homework. This is really great.
+
+4.What did not work well in the course and how might it be improved?
+--The React and Redux part doesn't work well in this part, I think. It will be better if we can spend more time talking about how to code in React and Redux.
+
+5.What could I have done to help you more, presentation of material, design of in class exercises, goals of projects – and be specific please!
+Some time, the inclass exercise dosen't relate to the material in the class or we spend too much time at the begining in the class and we don't know how to finish inclass exercise after class.
+
+6.Anything else you like to say?
+Hope everything goes well in next semester.
