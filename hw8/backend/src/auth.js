@@ -375,8 +375,6 @@ const successFun = (req,res) => {
 }
 
 const errorFun = (err,req,res,next) => {
-	// You could put your own behavior in here, fx: you could force auth again...
-    // res.redirect('/auth/facebook/');
     if(err) {
         res.status(400);
         res.send({err: err.message});
